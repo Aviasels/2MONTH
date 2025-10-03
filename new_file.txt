@@ -1,0 +1,41 @@
+  РЕЗУЛЬТАТЫ ГРУППЫ 59-2
+
+False - ? 100%
+class - ?
+from - ?95%
+or - ?100%
+None - ?0
+continue - ?80%
+global - ?
+pass - ?98%
+True - ?100%
+def - ?100%
+if - ?100%
+raise - ?
+and - ?100%
+del - ?100%
+import - ?100%
+return - ?100%
+as - ?60%
+elif - ?100%
+in - ?89%
+try - ?50%
+assert - ?
+else - ?100%
+is - ?
+while - ?100%
+async - ?
+except - ?78%
+lambda - ?100%
+with - ?1005
+await - ?
+finally - ?95%
+nonlocal - ?
+yield - ?
+break - ?100%
+for - ?100%
+not - ?100%
+Общее количество слов: 35
+Мы прошли: 27
+Не прошли: 8
+Процентное соотношение: 77.14
